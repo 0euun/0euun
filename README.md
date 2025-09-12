@@ -34,5 +34,9 @@
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/lines/0euun?pet-id=1" width="200" height="200"/>
   </a>
+    
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=0euun&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/0euun?pet-id=752880869397347080" width="400" height="200"/>
+  </a>
 
 </div>
