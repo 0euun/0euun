@@ -28,8 +28,14 @@
   <br/>
   <br/>
 
-  ![0euun's GitHub stats](https://github-readme-stats.vercel.app/api?username=0euun&show_icons=true&theme=buefy)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0euun&layout=compact&theme=buefy)
+  <a href="https://github.com/0euun">
+    <img height="160" src="https://github-readme-stats-indol-xi-74.vercel.app/api?username=0euun&show_icons=true&layout=compact&theme=buefy&count_private=true&hide=stars"/>
+  </a>
+  <a href="https://github.com/0euun">
+    <img height="160" src="https://github-readme-stats-indol-xi-74.vercel.app/api/top-langs/?username=0euun&layout=compact&theme=buefy&count_private=true"/>
+  </a>
+
+  <br/>
 
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/lines/0euun?pet-id=1" width="200" height="200"/>
