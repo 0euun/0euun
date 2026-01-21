@@ -32,7 +32,7 @@
     <img height="160" src="https://github-readme-stats-indol-xi-74.vercel.app/api?username=0euun&show_icons=true&layout=compact&theme=buefy&count_private=true&hide=stars"/>
   </a>
   <a href="https://github.com/0euun">
-    <img height="160" src="https://github-readme-stats-indol-xi-74.vercel.app/api/top-langs/?username=0euun&layout=compact&theme=buefy&count_private=true&hide=html,css,javascript&cache_seconds=300"/>
+    <img height="160" src="https://github-readme-stats-indol-xi-74.vercel.app/api/top-langs/?username=0euun&layout=compact&theme=buefy&count_private=true&hide=html,css,javascript"/>
   </a>
 
   <br/>
