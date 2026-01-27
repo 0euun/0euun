@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :school: Ewha Womans University<br/>
+  #### 🎓 Ewha Womans Univ. CSE '24<br/>
   <br/>
 
   ## 🧱 Tech Stack
