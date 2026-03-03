@@ -1,8 +1,7 @@
 <div align="center">
   
   <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&section=header&text=0euun%27s%20Github&fontColor=7C8499&fontSize=60&color=_custom_gradient:0:FFF1A8,30:F6B6D8,60:E0C9F3,100:BEE7E8)
-
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&section=header&text=0euun&fontSize=60&color=gradient&customColorList=0:6A0DAD,100:0066FF)
 </div>
 
 <div align="center">
