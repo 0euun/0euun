@@ -13,7 +13,8 @@ B.S. in Computer Science and Engineering
 <br>
 
 ### ☁️ Interest
-Backend Development · AI
+Artificial Intelligence Research <br>
+Backend Development
 <br>
 <br>
 
