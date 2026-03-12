@@ -8,7 +8,7 @@
 
 ### ☁️ Education
 Ewha Womans Univ.<br>
-B.S. in Computer Science and Engineering
+Majoring in Computer Science and Engineering
 <br>
 <br>
 
