@@ -37,6 +37,6 @@ Backend Development
     <img height="160" src="https://github-readme-stats-indol-xi-74.vercel.app/api?username=0euun&custom_title=0euun's&nbsp;Github👀&show_icons=true&layout=compact&count_private=true&show=reviews&hide=stars&bg_color=0,f4c2c2,fce8e8&title_color=ffffff&text_color=ffffff&show_icons=false"/>
   </a>
   <a href="https://github.com/0euun">
-    <img height="160" src="https://github-readme-stats-indol-xi-74.vercel.app/api/top-langs/?username=0euun&layout=compact&hide=css,javascript&bg_color=0,f4c2c2,fce8e8&title_color=ffffff&text_color=ffffff"/>
+    <img height="160" src="https://github-readme-stats-indol-xi-74.vercel.app/api/top-langs/?username=0euun&custom_title=My&nbsp;Languages👩🏼‍💻&layout=compact&hide=css,javascript&bg_color=0,f4c2c2,fce8e8&title_color=ffffff&text_color=ffffff"/>
   </a>
 </div>
